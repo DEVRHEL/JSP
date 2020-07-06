@@ -43,7 +43,7 @@
   </div>
 </nav>
 <div class="container text-center">
-	<table class="table table-condensed">
+	<table class="table table-bordered table-striped">
     <thead>
       <tr>
         <th>Firstname</th>
